@@ -15,7 +15,6 @@ body {
 header {
   background-color: white;
   padding: 32px 64px; /*32px 64px*/
-  width: 100vw;
 }
 
 .img-dados {
@@ -237,5 +236,4 @@ footer {
   padding: 57.6px;
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  width: 100vw;
 }
