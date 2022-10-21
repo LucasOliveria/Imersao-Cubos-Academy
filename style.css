@@ -10,13 +10,12 @@ p {
 
 body {
   background-color: #e5e5e5;
-  width: 100vw;
 }
 
 header {
   background-color: white;
   padding: 32px 64px; /*32px 64px*/
-  width: 100vw;
+  background-size: 100vmax;
 }
 
 .img-dados {
@@ -66,7 +65,7 @@ p {
 main {
   padding: 40px 64px; /*margin: 40px 64px causou mesmo efeito*/ /*40px 70px*/
   display: flex; /* 3º passo - aula flex para a div coluna-menor ficar ao lado da div coluna-maior*/
-  width: 100vw;
+  background-size: 100vmax;
 }
 
 .coluna-menor {
@@ -239,5 +238,5 @@ footer {
   padding: 57.6px;
   text-align: center;
   font-family: "Open Sans", sans-serif;
-  width: 100vw;
+  background-size: 100vmax;
 }
