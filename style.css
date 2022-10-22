@@ -22,7 +22,7 @@ header {
 
 .img-dados {
   /*******************/
-  display: flex; /*criei essa caixa para poder aplicar um flex para que os dados não ficassem em cima da imagem ao diminuir a tela*/
+  /*display: flex; /*criei essa caixa para poder aplicar um flex para que os dados não ficassem em cima da imagem ao diminuir a tela*/
 }
 
 .foto {
