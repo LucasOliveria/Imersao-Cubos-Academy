@@ -18,6 +18,7 @@ body {
 header {
   background-color: white;
   padding: 32px 64px; /*32px 64px*/
+  width: 100%;
 }
 
 .img-dados {
@@ -132,6 +133,7 @@ h3 {
 
 .coluna-maior {
   margin-left: 20px; /*24px o mesmo do margin-right de .foto*/
+  width: 100%;
 }
 
 .coluna-maior h2 {
@@ -239,4 +241,5 @@ footer {
   padding: 57.6px;
   text-align: center;
   font-family: "Open Sans", sans-serif;
+  width: 100%;
 }
