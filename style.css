@@ -9,7 +9,7 @@ p {
 }
 
 html {
-  display: flex; /* assim o header e o footer tomam todo o espaço não deixando o body corta-los ao enconher a tela*/
+  display: flex; /* assim o header e o footer tomam todo o espaço não deixando o body corta-los ao enconher a tela.*/
 }
 
 body {
