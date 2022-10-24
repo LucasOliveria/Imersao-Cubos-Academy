@@ -8,11 +8,12 @@ p {
   margin: 0;
 }
 
+html {
+  display: flex; /* assim o header e o footer tomam todo o espaço não deixando o body corta-los ao enconher a tela*/
+}
+
 body {
   background-color: #e5e5e5;
-  /*display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;*/
 }
 
 header {
