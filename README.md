@@ -1,8 +1,9 @@
 <h1 align="start"> Projeto Portfólio </h1>
 
-<h2 align="start"> Projeto criado na Imersão Programação do Zero da Cubos Academy. </h2>
+<h2 align="start"> Sobre o projeto </h2>
 
-<p> O objetivo desse projeto foi a criação de uma página WEB do absoluto zero. Para mim também foi uma oportunidade de por em prática um pouco do meu conhecimento adquirido nos últimos meses de estudos com HTML e CSS </p>
+<p> Projeto criado na Imersão Programação do Zero da Cubos Academy. O objetivo desse projeto foi a criação de uma página WEB do absoluto zero.</p>
+<p>  Para mim também foi uma oportunidade de por em prática um pouco do meu conhecimento adquirido nos últimos meses de estudos com HTML e CSS </p>
 
 <h2 align="start"> Tecnologias utilizadas </h2>
 
