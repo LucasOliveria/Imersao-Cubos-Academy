@@ -19,6 +19,6 @@ CSS
 <h2 align="start"> Autor </h2>
 
 <p> Lucas Oliveira </p>
-<a href="https://www.linkedin.com/in/lucas-oliveira-5b8a5532/" target="_blank" rel="noopener noreferrer"></a>
+<a href="https://www.linkedin.com/in/lucas-oliveira-5b8a5532/" target="_blank" rel="noopener noreferrer">Linkedin: Lucas Oliveira</a>
 
 Created with CodeSandbox
